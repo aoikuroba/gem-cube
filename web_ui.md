@@ -20,5 +20,13 @@
 
    ![](https://fastly.jsdelivr.net/gh/aoikuroba/graph-bed@main/czhou/20220623091452.png)
 
+3. [设计资源](https://ant.design/docs/resources-cn)
+
+   例如Ant Design Pro，该sketch文件中，包含了典型页面和通用业务模版
+
+   该文件已推送到一个在线浏览编辑sketch的网站，可通过该[链接](https://js.design/f/ouA9e6?p=vfS7XzYrVQ)访问浏览
+
+   ![](https://fastly.jsdelivr.net/gh/aoikuroba/graph-bed@main/czhou/20220623101335.png)
+
 ---
 
