@@ -17,3 +17,13 @@
 | 日期     | 2022-06-23                                 |
 
 ![](https://fastly.jsdelivr.net/gh/aoikuroba/graph-bed@main/zqding/16559740625381655974061608.png)
+
+
+## 免费的CSS样式模板
+| 资源信息 |                                                   |
+| -------- | ------------------------------------------        |
+| 资源类型 | HTML/CSS模板                                      |
+| 链接     | <https://www.free-css.com/free-css-layouts/page2> |
+| 备注     |                                                   |
+| 整理人   | 李文娅                                            |
+| 日期     | 2022-06-23                                       |
