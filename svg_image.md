@@ -34,5 +34,19 @@
 
 ---
 
+## 阿里巴巴矢量图库
+
+可以免费下载SVG、PNG格式
+
+| 资源信息 |                          |
+| -------- | --------------------    |
+| 资源类型 | 图形素材                  |
+| 链接     | https://www.iconfont.cn/ |
+| 备注     |                      |
+| 整理人   | 李文娅               |
+| 日期     | 2022-06-25           |
+
+![](https://fastly.jsdelivr.net/gh/aoikuroba/graph-bed@main/wyli/202206251651170.png)
+![](https://fastly.jsdelivr.net/gh/aoikuroba/graph-bed@main/wyli/202206251651173.png )
 
 
