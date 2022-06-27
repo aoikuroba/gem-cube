@@ -1,3 +1,5 @@
+------
+
 ## PostMan
 
 URL接口测试工具 
@@ -15,3 +17,21 @@ URL接口测试工具
 好处：接口测试工具能让我们在不写任何代码的情况下，对接口进行调用和测试。
 
 ![](https://fastly.jsdelivr.net/gh/aoikuroba/graph-bed@main/czhou/20220623170236.png)
+
+------
+
+## xshell
+
+Xshell 是一个强大的安全终端模拟软件，它支持SSH1, SSH2, 以及Microsoft Windows 平台的TELNET 协议。Xshell 通过互联网到远程主机的安全连接以及它创新性的设计和特色帮助用户在复杂的网络环境中享受他们的工作。
+
+| 资源信息 |                                   |
+| -------- | --------------------------------- |
+| 资源类型 | exe                               |
+| 链接     | https://www.xshell.com/zh/xshell/ |
+| 备注     |                                   |
+| 整理人   | 徐赠淞                            |
+| 日期     | 2022-06-27                        |
+
+好处：Xshell可以在Windows界面下用来访问远端不同系统下的服务器，从而比较好的达到远程控制终端的目的。除此之外，其还有丰富的外观配色方案以及样式选择。
+
+![](https://fastly.jsdelivr.net/gh/aoikuroba/graph-bed@main/zsxu/20220627175639.png)
