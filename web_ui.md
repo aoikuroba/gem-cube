@@ -86,3 +86,19 @@
 
 ---
 
+## Collect UI
+
+UI设计聚合类网站
+
+| 资源信息 |                               |
+| -------- | ----------------------------- |
+| 资源类型 | 页面示例                      |
+| 链接     | https://collectui.com/designs |
+| 备注     |                               |
+| 整理人   | 周超                          |
+| 日期     | 2022-07-11                    |
+
+该网站将UI页面按照功能进行分类归纳，给出了如`登陆`、`404Page`等页面示例
+
+![](https://fastly.jsdelivr.net/gh/littleroot-town/pic-test@main/img/20220711100501.png)
+
