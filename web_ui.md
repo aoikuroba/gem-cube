@@ -123,3 +123,21 @@ Q&A：什么是设计系统？
 简而言之，设计系统在UI组件的基础上，通过整套的设计规范、重用组件，从风格层面统一产品，可以快速完成页面开发任务
 
 ![](https://fastly.jsdelivr.net/gh/littleroot-town/pic-test@main/img/20220711101933.png)
+
+---
+
+## 模版之家
+
+后台管理页面模版聚合网站
+
+| 资源信息 |                                                |
+| -------- | ---------------------------------------------- |
+| 资源类型 | 页面实例                                       |
+| 链接     | http://www.cssmoban.com/cssthemes/houtaimoban/ |
+| 备注     |                                                |
+| 整理人   | 周超                                           |
+| 日期     | 2022-07-31                                     |
+
+后台管理网站模版
+
+![](https://fastly.jsdelivr.net/gh/aoikuroba/graph-bed@main/czhou/20220731110617.png)
